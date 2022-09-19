@@ -1,0 +1,27 @@
+{
+  "name": "doan_ie104",
+  "version": "1.0.0",
+  "description": "## I.Hướng dẫn chạy dự án:",
+  "main": "index.js",
+  "scripts": {
+    "prod": "NODE_ENV=production postcss tailwind.css -o ./layouts/css/styles.css",
+    "dev": "TAILWIND_MODE=WATCH postcss tailwind.css -o ./layouts/css/styles.css --watch --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cngk-2002/DoAn_IE104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cngk-2002/DoAn_IE104/issues"
+  },
+  "homepage": "https://github.com/cngk-2002/DoAn_IE104#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.11",
+    "cssnano": "^5.1.13",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.8"
+  }
+}
