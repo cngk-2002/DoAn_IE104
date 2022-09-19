@@ -1,4 +1,4 @@
 # ignore node_modules folder
-# node_modules
+node_modules
 # ignore styles.css file
 layouts/css/styles.css
