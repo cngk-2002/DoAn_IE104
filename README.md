@@ -1,6 +1,6 @@
-# ĐỒ ÁN WEB (Đọc qua trước khi làm).
+# ĐỒ ÁN WEB (Đọc qua trước đi nha).
 
-## I.Hướng dẫn chạy dự án:
+## I. Hướng dẫn chạy dự án:
 
 - Tải [git](https://git-scm.com) và [Node.js](https://nodejs.org/en/download)
 - Clone dự án về local.
