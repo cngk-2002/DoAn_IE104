@@ -19,6 +19,10 @@
   },
   "homepage": "https://github.com/cngk-2002/DoAn_IE104#readme",
   "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.7",
     "autoprefixer": "^10.4.11",
     "cssnano": "^5.1.13",
     "postcss-cli": "^10.0.0",
