@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prod": "NODE_ENV=production postcss tailwind.css -o ./layouts/css/styles.css",
-    "dev": "postcss tailwind.css -o ./layouts/css/styles.css --watch --verbose"
+    "dev": "postcss tailwind.css -o ./layouts/css/styles.css"
   },
   "repository": {
     "type": "git",
