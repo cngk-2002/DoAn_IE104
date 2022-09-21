@@ -7,9 +7,9 @@
   - Chạy dòng lệnh **`git clone https://github.com/cngk-2002/DoAn_IE104.git`**.
 - Ở lần đầu khởi chạy project:
   -Tạo folder css/styles.css trong folder layouts.
-  - Chạy dòng lệnh **`npm install -D tailwindcss postcss-cli autoprefixer concurrently`** và **`npm install -D cssnano`** trên terminal.
+  - Chạy dòng lệnh **`npm install -D tailwindcss postcss-cli autoprefixer`** và **`npm install -D concurrently live-server cssnano`** trên terminal.
   - Chạy dòng lệnh **`npm install -g win-node-env`** để có thể chạy ở chế độ production.
-- Chạy dòng lệnh **`run npm prod`**(chế độ minify) hoặc **`run npm dev`** trên terminal.
+- Chạy dòng lệnh **`run npm dev`** hoặc **`run npm prod`**(chế độ minify) trên terminal.
 - Bật Live Server.
 
 ## II. Công nghệ:
